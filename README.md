@@ -47,3 +47,6 @@ server/reopsitory server pada local repositry (working directory).
 2. **Selanjutnya, buka windows explorer, klik kanan pada folder yang telah dibuat tadi, klik “Git Bash Here”, maka akan muncul command prompt.**
 
 
+![cmd](https://user-images.githubusercontent.com/45907948/51590518-cc618800-1f1c-11e9-910d-6ce4f22ab5ee.jpg)
+
+3. **Untuk penggunaan pertama kali, kita harus mengkonfigurasikan user name dan email pada Git. ketik pada CMD**
