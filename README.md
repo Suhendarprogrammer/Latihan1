@@ -1,6 +1,9 @@
 #latihan 1
 ## TUTORIAL CARA MENGGUNAKAN GIT
-#### Apa Itu Git ?
+### Apa Itu Git ? ###
+
+![git-logo-2color](https://user-images.githubusercontent.com/45907948/51589411-76d7ac00-1f19-11e9-945d-69630595b684.png)
+
 **Git** adalah pengontrol versi yang bertugas mencatat setiap perubahan
 pada file proyek yang dikerjakan oleh banyak orang maupun sendiri.
 **Git** dikenal juga dengan ***distributed revision control*** (VCS
@@ -15,3 +18,32 @@ dalam satu tempat saja.
 
 1. Buka [website ini](http://gitforwindows.org/) dan download installer GIT untuk Windows.
 2. Setelah download, buka file tersebut untuk menjalankan proses instalasi. Ikuti semua instruksi, klik Next dan Finish hingga semua proses instalasi selesai.
+
+### PERINTAH DASAR GIT ###
+
+1. **git init**, perintah untuk membuat repository local
+
+2. **git add**, perintah untuk menambahkan file baru, atau perubahan
+pada file pada staging sebelum proses commit. 
+
+3. **git commit**, perintah untuk menyimpan perubahan kedalam database
+git. 
+
+4. **git push -u origin master**, perintah untuk mengirim perubahan pada
+repository local menuju server repository. 
+
+5. **git clone [url]**, perintah untuk membuat working directory yang diambil dari repositry sever. 
+
+6. **git remote add origin [url]**, perintah untuk menambahkan remote
+server/reopsitory server pada local repositry (working directory).
+
+### Langkah-Langkah Menggunakan Git ###
+
+
+1. **Buat Folder dimana saja**
+
+![panduan](https://user-images.githubusercontent.com/45907948/51589729-75f34a00-1f1a-11e9-842b-5cf42a581935.jpg)
+
+2. **Selanjutnya, buka windows explorer, klik kanan pada folder yang telah dibuat tadi, klik “Git Bash Here”, maka akan muncul command prompt.**
+
+
